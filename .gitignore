@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/NanoSurvey/.vs/NanoSurvey/DesignTimeBuild/.dtbcache.v2
+/NanoSurvey/.vs/NanoSurvey/v16/.suo
+/NanoSurvey/NanoSurvey/bin/Debug/netcoreapp3.1
+/NanoSurvey/NanoSurvey/obj
+/NanoSurvey/NanoSurvey/NanoSurvey.csproj.user
